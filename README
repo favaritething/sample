@@ -1,2 +1,11 @@
 ﻿This is a install txt for github.
 インストール手順書  UTF8crlf表記
+msysGit 
+ssh key 作成
+github 公開キー登録
+レポジトリ作成
+git 初期設定
+commit
+push
+
+詳細は、INSTALL
